@@ -13,14 +13,14 @@ import java.util.concurrent.TimeUnit
 interface ChatApiService {
 
     @Headers(
-        "Authorization: Bearer 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",
+        "Authorization: Bearer YOUR_OPEN_ROUTER_API",
         "Content-Type: application/json"
     )
     @POST("chat/completions")
     fun sendMessage(@Body request: ChatRequest): Call<ChatResponse>
 
     @Headers(
-        "Authorization: Bearer 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",
+        "Authorization: Bearer YOUR_HUGGING_FACE_API",
         "Content-Type: application/json"
     )
     @POST("hf-inference/models/black-forest-labs/FLUX.1-dev/")
