@@ -30,9 +30,10 @@ Nector AI is a powerful Android chatbot app built using Kotlin. It integrates AI
 
 ## 📸 Screenshots
 
-| Chat UI | AI Image Response | Image Labeling |
-|--------|-------------------|----------------|
-| ![app/src/main/assets/ss1.jpg] | ![app/src/main/assets/ss2.jpg] | ![app/src/main/assets/ss3.jpg] |
+| Splash Screen | Chat with AI | AI Image Generation |
+|---------|-------------------|----------------|
+| ![](app/src/main/assets/ss1.jpg) | ![](app/src/main/assets/ss2.jpg) | ![](app/src/main/assets/ss3.jpg) |
+
 
 
 ---
