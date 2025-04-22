@@ -2,6 +2,13 @@
 
 Nector AI is a powerful Android chatbot app built using Kotlin. It integrates AI text generation using the **DeepSeek-R1** model and supports image generation using the Hugging Face API. It also allows capturing images via camera and labeling objects using Google ML Kit, then asking the chatbot for related information.
 
+📥 <a href="https://www.mediafire.com/file/em4s0mtnbj7buml/Nector-AI.apk" download>
+  <button>
+      Download Nector AI APK
+  </button>
+</a>
+
+
 ## ✨ Features
 
 - 💬 Chat with an AI assistant powered by **DeepSeek-R1**
